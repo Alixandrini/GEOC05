@@ -29,4 +29,4 @@ Entrevista feirantes em Conde
 ![](https://images.pexels.com/photos/34912509/pexels-photo-34912509.jpeg)
 ![](https://images.pexels.com/photos/34912521/pexels-photo-34912521.jpeg)
 
-[![Video de panorama eucaliptos]({https://vault.pulsarimagens.com.br/file/thumb/34ER416.jpg})]({https://youtu.be/oT2_wdODQEg} "Eucaliptos")
+[![Video de panorama eucaliptos](https://vault.pulsarimagens.com.br/file/thumb/34ER416.jpg)](https://youtu.be/oT2_wdODQEg)
